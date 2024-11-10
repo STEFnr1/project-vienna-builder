@@ -20,4 +20,5 @@ If you want to play the game while outside, you will need to put your public IPv
 # Bugs or features?
 Make a new issue request and I'll look into it. Thanks for the support!
 
+# Credit
 Credit for Project Vienna goes to micheal65536. You can find out more at https://github.com/Project-Genoa/Vienna-docker & https://github.com/Project-Genoa/Vienna-data. The script uses those repositories to download the needed data.
