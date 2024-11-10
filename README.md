@@ -8,3 +8,5 @@ Batch file which downloads all necessary files and install Project Vienna into t
 4. After the files are moved, a prompt should automatically show up on your screen. If everything went well, you should receive a notification confirming everything was done correctly.
 
 You can also check if the container is alive in Docker, as this script will automatically register it.
+
+Credit for Project Vienna goes to micheal65536. You can find out more at https://github.com/Project-Genoa/Vienna-docker.
