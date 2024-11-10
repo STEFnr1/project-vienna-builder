@@ -9,4 +9,4 @@ Batch file which downloads all necessary files and install Project Vienna into t
 
 You can also check if the container is alive in Docker, as this script will automatically register it.
 
-Credit for Project Vienna goes to micheal65536. You can find out more at https://github.com/Project-Genoa/Vienna-docker.
+Credit for Project Vienna goes to micheal65536. You can find out more at https://github.com/Project-Genoa/Vienna-docker & https://github.com/Project-Genoa/Vienna-data. The script uses those repositories to download the needed data.
