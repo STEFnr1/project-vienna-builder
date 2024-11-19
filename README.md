@@ -1,4 +1,4 @@
-![image](https://forthebadge.com/images/badges/works-on-my-machine.png)
+![image](https://forthebadge.com/images/badges/works-on-my-machine.svg)
 
 # project-vienna-builder
 Batch file which downloads all necessary files and install Project Vienna into the current directory. It is recommended that you have Docker pre-installed on your computer, however this script will check for that. Git and wget will be installed as well; if you don't need Git and wget after running the script, they can be uninstalled.
